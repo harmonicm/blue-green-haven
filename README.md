@@ -75,14 +75,15 @@ Dynamic spatial and meteorological queries allow the system to scale to any Euro
 First, run the development server:
 
 ```bash
+# 1. Clone the repository
+git clone [https://github.com/harmonicm/blue-green-haven.git](https://github.com/harmonicm/blue-green-haven.git)
+cd blue-green-haven
+
+# 2. Install dependencies
+npm install
+
+# 3. Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
