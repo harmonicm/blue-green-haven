@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 An operational climate resilience platform engineered for the **IEEE OneAquaHealth Global Hackathon 2026** (Track 6: Resilience Informatics). Blue-Green Haven transforms urban streams into active, navigable thermal refuges during extreme heatwaves, connecting freshwater ecological integrity directly to human survival.
 
+<img width="508" height="356" alt="image" src="https://github.com/user-attachments/assets/95ec67e6-8719-4957-b3b4-518f78b13025" />
+
 ---
 
 ##  Executive Summary
