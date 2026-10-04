@@ -7,7 +7,7 @@ An operational climate resilience platform engineered for the **IEEE OneAquaHeal
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 Summer heatwaves across European cities claim more than 60,000 lives annually. In dense urban centers like Athens, Madrid, and Rome, asphalt and concrete create severe heat island effects.
 
@@ -17,24 +17,24 @@ Urban streams and riparian zones naturally mitigate this danger by providing eva
 
 ---
 
-## 💡 The Dual-Persona System
+##  The Dual-Persona System
 
 Blue-Green Haven serves two distinct stakeholders through dedicated operational modes:
 
-### 1. 🚶 Citizen Safe Router & Thermal Refuge Navigation
+### 1.  Citizen Safe Router & Thermal Refuge Navigation
 * **Thermal Comfort Routing:** Pedestrian route planning that diverts vulnerable citizens away from radiation-heavy concrete avenues (37.4°C) toward shaded riparian greenways (34.6°C).
 * **Zero-Friction Observation Portal:** Non-expert citizens report stream conditions using GPS auto-detection or direct map clicks. Uses intuitive visual cues (**Flowing & Clear** vs. **Stagnant / Dirty**) rather than technical hydrological parameters.
 * **Microclimate Attenuation Analytics:** Quantifies real-time temperature drops ($\Delta T = -2.8^\circ\text{C}$) along healthy stream canopies.
 * **Stewardship Gamification:** Citizens earn verified stewardship points and level up (e.g., *Watershed Guardian*), encouraging ongoing community monitoring.
 
-### 2. 🏛 Municipal & Research Hub
+### 2. Municipal & Research Hub
 * **Automated Remediation Workorders:** Automatically aggregates degraded stream flags into structured municipal maintenance tickets (e.g., `WO-2026-EU-089: Culvert Eutrophication & Flow Stagnation`) for emergency public works dispatch.
 * **Biosecurity Hazard Flagging:** Immediately revokes cooling buffer zones when stagnation is reported, converting them into epidemiological warning zones for cyanotoxins and mosquito vectors.
 * **Open Geospatial Interoperability:** One-click **GeoJSON** data export formatted for municipal GIS pipelines, QGIS, ArcGIS, and the European OneAquaHealth Open Information Hub.
 
 ---
 
-## 📊 Dashboard Metrics Explained
+## Dashboard Metrics Explained
 
 | Metric | Scientific Basis & Real-World Utility |
 | :--- | :--- |
@@ -46,7 +46,7 @@ Blue-Green Haven serves two distinct stakeholders through dedicated operational 
 
 ---
 
-## 🛠 System Architecture & Data Pipelines
+## System Architecture & Data Pipelines
 
 The platform runs entirely on open European standards and live public APIs, avoiding proprietary database lock-in:
 
@@ -57,7 +57,7 @@ The platform runs entirely on open European standards and live public APIs, avoi
 * **Waterway Cartography:** [OpenStreetMap Overpass API](https://overpass-turbo.eu/) (dynamic spatial queries for urban stream geometries)
 * **Spatial Export:** RFC 7946-compliant GeoJSON
 
-## 🌍 Continental Scalability
+## Continental Scalability
 
 Blue-Green Haven includes a multi-city selector covering Mediterranean hubs vulnerable to summer heatwaves:
 * **Athens, Greece** ($37.98^\circ\text{N}, 23.72^\circ\text{E}$ — Ilissos & Kifissos Basins)
